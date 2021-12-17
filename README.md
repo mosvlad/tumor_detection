@@ -53,4 +53,4 @@ evaluator = evaluate.Evaluator()
 evaluator.evaluate(model_path="Tumor_classifier_model_v2.h5", image_path="archive/validation_data/323.jpg")
 ```
 
-Веса предобученной сети доступны по ссылке :[Google Drive](https://drive.google.com/file/d/1Uatua4sb1Tzct-Ou4SNMIBBBbFAJmIpt/view?usp=sharing)
+Веса предобученной сети доступны по ссылке : [Google Drive](https://drive.google.com/file/d/1Uatua4sb1Tzct-Ou4SNMIBBBbFAJmIpt/view?usp=sharing)
