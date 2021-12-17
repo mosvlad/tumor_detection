@@ -1,2 +1,2 @@
-# tumor_detection
+# Tumor detection
 Нейросеть на основе inception_resnet_v2 для определения наличия опухоли головного мозга на снимках МРТ
